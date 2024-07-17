@@ -14,9 +14,9 @@ const Page = () => {
           and Advertising Materials.
         </h1>
         <p className="relative mt-8 sm:mt-11 text-base sm:text-lg leading-7 text-center text-gray-400 max-w-3xl">
-          Lorem Ipsum has been the industry's standard dummy text since
-          the 1500s, when an unknown printer took a galley of type and
-          scrambled type specimen book.
+        Lorem Ipsum has been the industry&apos;s standard dummy text since
+  the 1500s, when an unknown printer took a galley of type and
+  scrambled type specimen book.
         </p>
         <Image
           className="mt-12 sm:mt-16 lg:mt-20 max-w-full w-full sm:w-auto h-auto"
@@ -52,9 +52,9 @@ const Page = () => {
               </div>
               <div className="w-full sm:w-3/5">
                 <p className="text-base sm:text-lg leading-7 text-gray-400">
-                  Lorem Ipsum has been the industry's standard dummy text since
-                  the 1500s, when an unknown printer took a galley of type and
-                  scrambled type specimen book.
+                Lorem Ipsum has been the industry&apos;s standard dummy text since
+  the 1500s, when an unknown printer took a galley of type and
+  scrambled type specimen book.
                 </p>
               </div>
             </div>
@@ -79,9 +79,9 @@ const Page = () => {
                   </div>
                 </div>
                 <p className="mt-6 text-lg sm:text-xl leading-relaxed text-white">
-                  "Lorem Ipsum has been the industry's standard dummy text ever
-                  since the 1500s, when an unknown printer took a galley of type
-                  and scrambled it to make a type specimen book."
+                &quot;Lorem Ipsum has been the industry&apos;s standard dummy text ever
+  since the 1500s, when an unknown printer took a galley of type
+  and scrambled it to make a type specimen book.&quot;
                 </p>
               </div>
             ))}
